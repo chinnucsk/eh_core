@@ -1,0 +1,13 @@
+ebin/*.beam
+ebin/*.app
+log/*.log
+.project
+.settings
+erl_crash.dump
+.DS_Store
+.eunit
+deps
+scratch
+boss.config
+boss.test.config
+tmp/*.*
